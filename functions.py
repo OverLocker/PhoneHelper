@@ -1,5 +1,4 @@
 import json
-from plistlib import dumps
 from uuid import uuid4
 
 def load_phonebook(phone_book_file):
